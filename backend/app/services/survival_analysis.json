@@ -1,0 +1,156 @@
+{
+  "title": "Time to Readmission Survival Analysis",
+  "median_survival_days": {
+    "high_risk": 11,
+    "medium_risk": 24,
+    "low_risk": ">30"
+  },
+  "kaplan_meier": [
+    {
+      "day": 0,
+      "high_risk": 1.0,
+      "medium_risk": 1.0,
+      "low_risk": 1.0
+    },
+    {
+      "day": 2,
+      "high_risk": 0.94,
+      "medium_risk": 0.97,
+      "low_risk": 0.99
+    },
+    {
+      "day": 4,
+      "high_risk": 0.88,
+      "medium_risk": 0.94,
+      "low_risk": 0.98
+    },
+    {
+      "day": 6,
+      "high_risk": 0.82,
+      "medium_risk": 0.91,
+      "low_risk": 0.97
+    },
+    {
+      "day": 8,
+      "high_risk": 0.76,
+      "medium_risk": 0.88,
+      "low_risk": 0.96
+    },
+    {
+      "day": 10,
+      "high_risk": 0.71,
+      "medium_risk": 0.85,
+      "low_risk": 0.95
+    },
+    {
+      "day": 12,
+      "high_risk": 0.66,
+      "medium_risk": 0.82,
+      "low_risk": 0.94
+    },
+    {
+      "day": 14,
+      "high_risk": 0.62,
+      "medium_risk": 0.79,
+      "low_risk": 0.93
+    },
+    {
+      "day": 16,
+      "high_risk": 0.58,
+      "medium_risk": 0.76,
+      "low_risk": 0.92
+    },
+    {
+      "day": 18,
+      "high_risk": 0.54,
+      "medium_risk": 0.74,
+      "low_risk": 0.91
+    },
+    {
+      "day": 20,
+      "high_risk": 0.51,
+      "medium_risk": 0.72,
+      "low_risk": 0.9
+    },
+    {
+      "day": 22,
+      "high_risk": 0.48,
+      "medium_risk": 0.7,
+      "low_risk": 0.89
+    },
+    {
+      "day": 24,
+      "high_risk": 0.45,
+      "medium_risk": 0.68,
+      "low_risk": 0.88
+    },
+    {
+      "day": 26,
+      "high_risk": 0.43,
+      "medium_risk": 0.66,
+      "low_risk": 0.87
+    },
+    {
+      "day": 28,
+      "high_risk": 0.41,
+      "medium_risk": 0.64,
+      "low_risk": 0.86
+    },
+    {
+      "day": 30,
+      "high_risk": 0.39,
+      "medium_risk": 0.62,
+      "low_risk": 0.85
+    }
+  ],
+  "cox_proportional_hazards": [
+    {
+      "variable": "Previous Admissions (per adm)",
+      "hazard_ratio": 1.42,
+      "ci_95_lower": 1.28,
+      "ci_95_upper": 1.58,
+      "p_value": 0.0001,
+      "significance": "***"
+    },
+    {
+      "variable": "Length of Stay (per day)",
+      "hazard_ratio": 1.14,
+      "ci_95_lower": 1.08,
+      "ci_95_upper": 1.21,
+      "p_value": 0.0004,
+      "significance": "***"
+    },
+    {
+      "variable": "Comorbidity Count (per disease)",
+      "hazard_ratio": 1.31,
+      "ci_95_lower": 1.19,
+      "ci_95_upper": 1.44,
+      "p_value": 0.0002,
+      "significance": "***"
+    },
+    {
+      "variable": "Age (per decade)",
+      "hazard_ratio": 1.09,
+      "ci_95_lower": 1.02,
+      "ci_95_upper": 1.17,
+      "p_value": 0.012,
+      "significance": "*"
+    },
+    {
+      "variable": "Emergency Visits (per visit)",
+      "hazard_ratio": 1.25,
+      "ci_95_lower": 1.13,
+      "ci_95_upper": 1.39,
+      "p_value": 0.0008,
+      "significance": "***"
+    },
+    {
+      "variable": "ICU Ward Admission",
+      "hazard_ratio": 1.56,
+      "ci_95_lower": 1.32,
+      "ci_95_upper": 1.84,
+      "p_value": 0.0001,
+      "significance": "***"
+    }
+  ]
+}

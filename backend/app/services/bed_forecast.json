@@ -1,0 +1,789 @@
+{
+  "hospital_name": "MetroHealth Central Network",
+  "total_capacity": 500,
+  "current_occupancy": 410,
+  "predicted_peak": 468,
+  "predicted_peak_date": "2026-09-22",
+  "peak_occupancy_percent": 93.6,
+  "available_beds_at_peak": 32,
+  "time_series": [
+    {
+      "date": "2026-09-01",
+      "type": "actual",
+      "actual_occupancy": 412,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-02",
+      "type": "actual",
+      "actual_occupancy": 413,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-03",
+      "type": "actual",
+      "actual_occupancy": 421,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-04",
+      "type": "actual",
+      "actual_occupancy": 429,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-05",
+      "type": "actual",
+      "actual_occupancy": 423,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-06",
+      "type": "actual",
+      "actual_occupancy": 426,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-07",
+      "type": "actual",
+      "actual_occupancy": 437,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-08",
+      "type": "actual",
+      "actual_occupancy": 433,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-09",
+      "type": "actual",
+      "actual_occupancy": 427,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-10",
+      "type": "actual",
+      "actual_occupancy": 431,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-11",
+      "type": "actual",
+      "actual_occupancy": 424,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-12",
+      "type": "actual",
+      "actual_occupancy": 422,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-13",
+      "type": "actual",
+      "actual_occupancy": 422,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-14",
+      "type": "actual",
+      "actual_occupancy": 407,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-15",
+      "type": "actual",
+      "actual_occupancy": 404,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-16",
+      "type": "actual",
+      "actual_occupancy": 406,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-17",
+      "type": "actual",
+      "actual_occupancy": 399,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-18",
+      "type": "actual",
+      "actual_occupancy": 402,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-19",
+      "type": "actual",
+      "actual_occupancy": 392,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-20",
+      "type": "actual",
+      "actual_occupancy": 387,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-21",
+      "type": "actual",
+      "actual_occupancy": 399,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-22",
+      "type": "actual",
+      "actual_occupancy": 389,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-23",
+      "type": "actual",
+      "actual_occupancy": 390,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-24",
+      "type": "actual",
+      "actual_occupancy": 383,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-25",
+      "type": "actual",
+      "actual_occupancy": 388,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-26",
+      "type": "actual",
+      "actual_occupancy": 394,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-27",
+      "type": "actual",
+      "actual_occupancy": 390,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-28",
+      "type": "actual",
+      "actual_occupancy": 401,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-29",
+      "type": "actual",
+      "actual_occupancy": 400,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-09-30",
+      "type": "actual",
+      "actual_occupancy": 406,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-01",
+      "type": "actual",
+      "actual_occupancy": 409,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-02",
+      "type": "actual",
+      "actual_occupancy": 425,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-03",
+      "type": "actual",
+      "actual_occupancy": 420,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-04",
+      "type": "actual",
+      "actual_occupancy": 418,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-05",
+      "type": "actual",
+      "actual_occupancy": 430,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-06",
+      "type": "actual",
+      "actual_occupancy": 422,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-07",
+      "type": "actual",
+      "actual_occupancy": 430,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-08",
+      "type": "actual",
+      "actual_occupancy": 420,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-09",
+      "type": "actual",
+      "actual_occupancy": 422,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-10",
+      "type": "actual",
+      "actual_occupancy": 428,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-11",
+      "type": "actual",
+      "actual_occupancy": 429,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-12",
+      "type": "actual",
+      "actual_occupancy": 423,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-13",
+      "type": "actual",
+      "actual_occupancy": 418,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-14",
+      "type": "actual",
+      "actual_occupancy": 413,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-15",
+      "type": "actual",
+      "actual_occupancy": 403,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-16",
+      "type": "actual",
+      "actual_occupancy": 403,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-17",
+      "type": "actual",
+      "actual_occupancy": 400,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-18",
+      "type": "actual",
+      "actual_occupancy": 404,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-19",
+      "type": "actual",
+      "actual_occupancy": 397,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-20",
+      "type": "actual",
+      "actual_occupancy": 384,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-21",
+      "type": "actual",
+      "actual_occupancy": 392,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-22",
+      "type": "actual",
+      "actual_occupancy": 388,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-23",
+      "type": "actual",
+      "actual_occupancy": 386,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-24",
+      "type": "actual",
+      "actual_occupancy": 393,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-25",
+      "type": "actual",
+      "actual_occupancy": 397,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-26",
+      "type": "actual",
+      "actual_occupancy": 399,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-27",
+      "type": "actual",
+      "actual_occupancy": 393,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-28",
+      "type": "actual",
+      "actual_occupancy": 400,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-29",
+      "type": "actual",
+      "actual_occupancy": 407,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-30",
+      "type": "actual",
+      "actual_occupancy": 414,
+      "predicted_occupancy": null,
+      "upper_ci": null,
+      "lower_ci": null
+    },
+    {
+      "date": "2026-10-31",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 425,
+      "upper_ci": 443,
+      "lower_ci": 407
+    },
+    {
+      "date": "2026-11-01",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 431,
+      "upper_ci": 449,
+      "lower_ci": 412
+    },
+    {
+      "date": "2026-11-02",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 437,
+      "upper_ci": 456,
+      "lower_ci": 418
+    },
+    {
+      "date": "2026-11-03",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 442,
+      "upper_ci": 461,
+      "lower_ci": 422
+    },
+    {
+      "date": "2026-11-04",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 446,
+      "upper_ci": 466,
+      "lower_ci": 426
+    },
+    {
+      "date": "2026-11-05",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 450,
+      "upper_ci": 470,
+      "lower_ci": 429
+    },
+    {
+      "date": "2026-11-06",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 452,
+      "upper_ci": 473,
+      "lower_ci": 431
+    },
+    {
+      "date": "2026-11-07",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 454,
+      "upper_ci": 475,
+      "lower_ci": 432
+    },
+    {
+      "date": "2026-11-08",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 454,
+      "upper_ci": 476,
+      "lower_ci": 432
+    },
+    {
+      "date": "2026-11-09",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 453,
+      "upper_ci": 475,
+      "lower_ci": 430
+    },
+    {
+      "date": "2026-11-10",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 451,
+      "upper_ci": 474,
+      "lower_ci": 428
+    },
+    {
+      "date": "2026-11-11",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 448,
+      "upper_ci": 471,
+      "lower_ci": 424
+    },
+    {
+      "date": "2026-11-12",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 444,
+      "upper_ci": 468,
+      "lower_ci": 420
+    },
+    {
+      "date": "2026-11-13",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 440,
+      "upper_ci": 464,
+      "lower_ci": 415
+    },
+    {
+      "date": "2026-11-14",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 435,
+      "upper_ci": 460,
+      "lower_ci": 410
+    },
+    {
+      "date": "2026-11-15",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 430,
+      "upper_ci": 456,
+      "lower_ci": 405
+    },
+    {
+      "date": "2026-11-16",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 425,
+      "upper_ci": 451,
+      "lower_ci": 399
+    },
+    {
+      "date": "2026-11-17",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 421,
+      "upper_ci": 447,
+      "lower_ci": 394
+    },
+    {
+      "date": "2026-11-18",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 417,
+      "upper_ci": 444,
+      "lower_ci": 390
+    },
+    {
+      "date": "2026-11-19",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 414,
+      "upper_ci": 442,
+      "lower_ci": 387
+    },
+    {
+      "date": "2026-11-20",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 412,
+      "upper_ci": 440,
+      "lower_ci": 384
+    },
+    {
+      "date": "2026-11-21",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 411,
+      "upper_ci": 440,
+      "lower_ci": 383
+    },
+    {
+      "date": "2026-11-22",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 411,
+      "upper_ci": 440,
+      "lower_ci": 382
+    },
+    {
+      "date": "2026-11-23",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 413,
+      "upper_ci": 442,
+      "lower_ci": 383
+    },
+    {
+      "date": "2026-11-24",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 415,
+      "upper_ci": 445,
+      "lower_ci": 385
+    },
+    {
+      "date": "2026-11-25",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 419,
+      "upper_ci": 449,
+      "lower_ci": 388
+    },
+    {
+      "date": "2026-11-26",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 423,
+      "upper_ci": 454,
+      "lower_ci": 392
+    },
+    {
+      "date": "2026-11-27",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 428,
+      "upper_ci": 460,
+      "lower_ci": 397
+    },
+    {
+      "date": "2026-11-28",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 434,
+      "upper_ci": 466,
+      "lower_ci": 402
+    },
+    {
+      "date": "2026-11-29",
+      "type": "forecast",
+      "actual_occupancy": null,
+      "predicted_occupancy": 440,
+      "upper_ci": 472,
+      "lower_ci": 408
+    }
+  ],
+  "ward_forecasts": [
+    {
+      "ward": "ICU",
+      "capacity": 60,
+      "current_occupancy": 53,
+      "predicted_peak": 57,
+      "peak_date": "2026-09-22",
+      "risk": "High"
+    },
+    {
+      "ward": "Cardiology",
+      "capacity": 90,
+      "current_occupancy": 76,
+      "predicted_peak": 84,
+      "peak_date": "2026-09-24",
+      "risk": "Medium"
+    },
+    {
+      "ward": "Emergency",
+      "capacity": 100,
+      "current_occupancy": 88,
+      "predicted_peak": 96,
+      "peak_date": "2026-09-18",
+      "risk": "High"
+    },
+    {
+      "ward": "General Medicine",
+      "capacity": 130,
+      "current_occupancy": 104,
+      "predicted_peak": 118,
+      "peak_date": "2026-09-21",
+      "risk": "Medium"
+    },
+    {
+      "ward": "Orthopedics",
+      "capacity": 50,
+      "current_occupancy": 36,
+      "predicted_peak": 42,
+      "peak_date": "2026-09-20",
+      "risk": "Low"
+    },
+    {
+      "ward": "Neurology",
+      "capacity": 40,
+      "current_occupancy": 31,
+      "predicted_peak": 36,
+      "peak_date": "2026-09-25",
+      "risk": "Low"
+    },
+    {
+      "ward": "Pediatrics",
+      "capacity": 30,
+      "current_occupancy": 22,
+      "predicted_peak": 26,
+      "peak_date": "2026-09-23",
+      "risk": "Low"
+    }
+  ]
+}
