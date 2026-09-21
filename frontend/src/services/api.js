@@ -1,6 +1,5 @@
 // CarePredict AI - API Service Layer with Fallback Mock Data
-
-const API_BASE = '/api';
+const API_BASE = 'https://carepredict-backend.onrender.com/api';
 
 export const fetchDashboardData = async () => {
   try {
